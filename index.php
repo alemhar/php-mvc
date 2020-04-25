@@ -1,2 +1,0 @@
-<?php
-// God is Great.
