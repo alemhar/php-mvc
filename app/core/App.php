@@ -2,6 +2,6 @@
 
 class App{
     public function __construct(){
-        echo 'App Instance Created!';
+        echo 'App Created!';
     }
 }
